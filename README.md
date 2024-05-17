@@ -23,5 +23,13 @@ A basic implementation of a neural network in Python, developed for educational 
 - Adjust dataset and hyperparameters (e.g. learning rate, number of epochs) as needed
 
 ---
-# Loss over epochs for XOR problem
+# Example
+The provided example demonstrates the neural network's ability to learn the XOR (Exclusive OR) logic gate. The XOR dataset consists of 4 input-output pairs:
+| Input 1 | Input 2 | Output |
+| --- | --- | --- |
+| 0     | 0     | 0     |
+| 0     | 1     | 1     |
+| 1     | 0     | 1     |
+| 1     | 1     | 0     |
+
 ![Training Loss over epochs](NN_Scratch/images/Figure_1.png)
