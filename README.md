@@ -23,5 +23,5 @@ A basic implementation of a neural network in Python, developed for educational 
 - Adjust dataset and hyperparameters (e.g. learning rate, number of epochs) as needed
 
 ---
-# Output for XOR problem
+# Loss over epochs for XOR problem
 ![Training Loss over epochs](NN_Scratch/images/Figure_1.png)
