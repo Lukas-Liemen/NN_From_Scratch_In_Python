@@ -32,4 +32,6 @@ The provided example demonstrates the neural network's ability to learn the XOR 
 | 1     | 0     | 1     |
 | 1     | 1     | 0     |
 
+The networks consists out of two linear layers each followed by the LeakyReLU activation function. The first layer has 2 inputs and 8 outputs, the second layer consists of 8 inputs and 1 output.
+
 ![Training Loss over epochs](NN_Scratch/images/Figure_1.png)
