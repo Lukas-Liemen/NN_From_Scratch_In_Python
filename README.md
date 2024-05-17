@@ -22,5 +22,6 @@ A basic implementation of a neural network in Python, developed for educational 
 - Run main.py to train the neural network and visualize the training loss
 - Adjust dataset and hyperparameters (e.g. learning rate, number of epochs) as needed
 
+---
 # Output for XOR problem
 ![Training Loss over epochs](NN_Scratch/images/Figure_1.png)
