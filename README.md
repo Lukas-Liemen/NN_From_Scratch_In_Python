@@ -1,5 +1,5 @@
 # Overview
-A basic implementation of a neural network in Python, developed for educational purposes.
+A basic implementation of a neural network in Python.
 
 # Setup
 - Install required packages: numpy, matplotlib, tqdm
